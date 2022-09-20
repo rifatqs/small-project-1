@@ -1,2 +1,2 @@
 # small-project-1
-small project 1 sekolah bigdata
+intregasi postgreSQL-python-pyspark
